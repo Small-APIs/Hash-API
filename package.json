@@ -1,0 +1,24 @@
+{
+  "name": "hash-api",
+  "version": "1.0.0",
+  "description": "Text hashing API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntsyBoi/Hash-API.git"
+  },
+  "keywords": [
+    "Hash",
+    "SHA-256",
+    "SHA"
+  ],
+  "author": "AntsyBoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntsyBoi/Hash-API/issues"
+  },
+  "homepage": "https://github.com/AntsyBoi/Hash-API#readme"
+}

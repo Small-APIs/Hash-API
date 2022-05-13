@@ -7,5 +7,5 @@ Hashing API with SHA-256 support.
 
 # How to use:
  - Run ``npm start``
- - Go to [localhost:8080](http://localhost:8080) with the text you'd like to hash (eg. [localhost:8080/apple](http://localhost:8080/apple)) to see the SHA-256 hash of the text.
+ - Go to [localhost:8080](http://localhost:8080) with the text you'd like to hash (eg. [localhost:8080/Hello](http://localhost:8080/Hello)) to see the SHA-256 hash of the text.
  
